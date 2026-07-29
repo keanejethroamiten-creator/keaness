@@ -15,8 +15,8 @@ local Camera = workspace.CurrentCamera
 local LocalPlayer = Players.LocalPlayer
 
 -- ⚙️ ADJUST THESE HOWEVER YOU WANT
-local BaseFOV = 25               -- ✅ BIGGER FOV — picks up targets further out
-local AimFOV = 20                -- ✅ Tighter when holding RMB
+local BaseFOV = 50               -- ✅ BIGGER FOV — picks up targets further out
+local AimFOV = 50                -- ✅ Tighter when holding RMB
 local AimStrength = 0.92         -- ✅ STRONGER LOCK — still lets you move mouse
 local AimThroughWalls = true
 local AimPart = "Head"
